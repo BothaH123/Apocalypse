@@ -1,0 +1,15 @@
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Apocalypse.exe
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Apocalypse.deps.json
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Apocalypse.runtimeconfig.json
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Apocalypse.dll
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Apocalypse.pdb
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.AssemblyInfoInputs.cache
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.AssemblyInfo.cs
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.csproj.CoreCompileInputs.cache
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.dll
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\refint\Apocalypse.dll
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.pdb
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\Apocalypse.genruntimeconfig.cache
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\obj\Debug\net8.0\ref\Apocalypse.dll
+C:\Users\E005602\source\repos\Apocalypse\Apocalypse\bin\Debug\net8.0\Assets\drop_locations-1.txt
